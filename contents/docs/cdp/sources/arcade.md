@@ -12,6 +12,7 @@ sourceId: Arcade
 import SourceSetupIntro from "../\_snippets/source-setup-intro.mdx"
 import SyncModes from "../\_snippets/sync-modes.mdx"
 import TroubleshootingLink from "../\_snippets/dw-troubleshooting-link.mdx"
+
 The Arcade connector syncs data from your [Arcade](https://arcade.software) interactive demo platform into the PostHog data warehouse, so you can analyze demo engagement alongside your product data.
 
 ## Prerequisites
